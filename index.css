@@ -34,7 +34,6 @@
     color: aliceblue;
     font-size: 70px;
     margin-top: -600px;
-    /* text-align: center; */
     text-transform: capitalize;
 }
 
@@ -146,7 +145,6 @@
 }
 
 .ice1 {
-    /* margin-right: 30px; */
     height: 470px;
     width: 300px;
     margin-left: 300px;
@@ -167,8 +165,6 @@
 .icecube h5 {
     color: lightcoral;
     margin-left: 20px;
-
-
 }
 
 .nec {
@@ -280,18 +276,12 @@
     color: burlywood;
     margin-left: 20px;
 
-
+    
 }
 
 .zero {
     margin-top: 70px;
 }
-
-.escape {
-    /* top: 0%; */
-
-}
-
 .last {
     background-color: beige;
 }
